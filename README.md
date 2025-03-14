@@ -1,4 +1,4 @@
-Tabii, işte İngilizce versiyonu:
+
 
 # EcoModus  
 
@@ -13,5 +13,5 @@ It promotes sustainable living while offering long-term investment opportunities
 
 More details will be added soon.
 
-Bunu README.md dosyası olarak GitHub’a ekleyebilirsin. Eğer nasıl ekleyeceğini bilmiyorsan, adım adım anlatabilirim.
+
 
